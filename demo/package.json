@@ -13,7 +13,13 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-player": "^2.14.1",
-    "Video": "file:.."
+    "xstate": "^4.38.3",
+    "@xstate/react": "^3.2.2",
+    "hls.js": "^1.5.7",
+    "media-captions": "^1.0.4",
+    "screenfull": "^6.0.2",
+    "wavesurfer.js": "^7.8.0",
+    "axios": "^1.6.7"
   },
   "devDependencies": {
     "@types/node": "^20",
